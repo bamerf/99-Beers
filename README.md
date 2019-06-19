@@ -6,4 +6,4 @@ A simple Ruby back-end app to have fun with `name params`.
 
 ---
 
-> [👉Link to app](https://serene-ridge-29203.herokuapp.com/)
+> [👉Link to app](https://mysterious-crag-51401.herokuapp.com/99)
